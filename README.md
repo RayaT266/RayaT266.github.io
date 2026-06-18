@@ -18,8 +18,8 @@ Este repositório contém os projetos, desafios e anotações que estou desenvol
 
 ## 🚀 Em desenvolvimento
 
-Acompanhando o módulo de cibersegurança do programa Mulheres Digitais, com foco em aprendizado prático e construção de portfólio.
+Acompanhando o curso de cibersegurança do programa Mulheres Digitais, com foco em aprendizado prático e construção de portfólio.
+- https://rayat266.github.io/
 
 ---
-
 _Registro da minha jornada no curso de cibersegurança._
